@@ -2,7 +2,7 @@
 <h3 align="center">I am an aspiring software engineer and a programming enthusiast. from India</h3>
 
 <img align ="right" alt ="coding" width="400" src="https://github.com/riya751885/riya751885/assets/122119293/a5c4315e-591e-44ad-96b8-74c74fe7e9ed">
-">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riya751885&label=Profile%20views&color=0e75b6&style=flat" alt="riya751885" /> </p>
